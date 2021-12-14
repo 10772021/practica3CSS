@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+h1{
+	background-color: blue; 
+	font-family: 'Potta One',cursive;
+	color: yellow;
+	width: 500px
+}
+
+.C{
+	text-align: center;
+}
+
+.estilo1{
+	font-family: 'Potta One', cursive;
+	width: 30%;
+	background-color: #3399ff;
+	float:left;
+}
+.estilo2{
+	font-family: 'Potta One', cursive;
+	display: inline;
+	line-height:200%;
+	background-color: black;
+	color: yellow; 
+	
+}
+.estilo3{
+	font-family: 'Coda Caption', sans-serif;
+}
+.estilo4{
+	font-family: 'Yusei Magic', sans-serif;
+}
+
+.lin{
+	position: relative;
+	top: -25px;
+}
+.lin2{
+	position: relative;
+	top: -32px;	
+}
+.lin3{
+	position: relative;
+	top: -5px;	
+}
+.estilo3
+
+
+
+	
